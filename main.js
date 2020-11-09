@@ -48,15 +48,15 @@ logObjectKeysAndValues(person)
 ///   You can simply copy/paste the person object you made above multiple times.              ///
 ///   Feel free to change the values to reflect multiple people you might have in your database./
  let arrayOfPersons = [{
-    firstName: "Sam",
-    lastName: "Hyde",
+    firstName: "Kim",
+    lastName: "Kardashian",
     birthDate: "Jan 5, 2005",
     gener: "female"
 },
      
 {
-    firstName: "Ted",
-    lastName: "Bundy",
+    firstName: "Charles",
+    lastName: "Manson",
     birthDate: "Jan 5, 1925",
     gener: "female"
 },
@@ -67,8 +67,8 @@ logObjectKeysAndValues(person)
     gender: "other"
 },
 {
-    firstName: "Jeff",
-    lastName: "Dahmer",
+    firstName: "Kurt",
+    lastName: "Cobain",
     birthDate: "Dec 7, 1934",
     gender: "male"
 }]
